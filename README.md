@@ -28,6 +28,7 @@ The goal: make useful indie AI products easier to find, share, and support.
 
 ## 📣 Marketing, SEO & Sales
 
+- [TinyTools](https://tinytools-smoky.vercel.app/) - 9 free single-purpose browser utilities for indie builders: OG image generator, SEO meta tag generator, AI background remover (runs locally), favicon generator, color palette generator, domain name generator, AI cost calculator, EU AI Act disclosure generator, AI robots.txt generator. All client-side, no signup.
 - [NotFair](https://notfair.co) - NotFair is a Google Ads MCP server that connects Claude and other AI agents to your Google Ads account to diagnose performance, recommend optimizations, and execute approved campaign changes.
 - [Inrō](https://www.inro.social) - Inrō handles your Instagram DMs like a human would.
 - [Wellows](https://wellows.com) - Wellows helps your customers find you via AI, earning you trust, traffic, and conversions.
